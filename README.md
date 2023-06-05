@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Grenze&size=28&duration=4000&pause=2000&color=8A38D5&width=300&lines=Hi,+++I'm+Mehedi+Hasan)](https://github.com/bdmehedi)
 
-I am a Full Stack Web Developer from Dhaka, Bangladesh with a huge love for PHP, Laravel, Vue.js, React.js, TypeScript, Everything API, RDBMS (Mysql, SQL Server), TailwindCSS and WordPress. Also I am familiar with docker and linux system.
+I am a Full Stack Web Developer from Dhaka, Bangladesh with a huge love for PHP, Laravel, Vue.js, React.js, TypeScript, Everything API, RDBMS (Mysql, SQL Server), TailwindCSS and WordPress. Also I am familiar with AWS, GCP, docker and linux system.
 
 Currently, working as a **Software Engineer** in **[weDevs](https://wedevs.com/about/team)** ([Appsero](https://appsero.com), [InboxWP](https://inboxwp.com) and [weMail](https://getwemail.io) Project).
 
