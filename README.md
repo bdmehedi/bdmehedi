@@ -41,7 +41,7 @@ Currently, working as a **Software Engineer** in **[weDevs](https://wedevs.com/a
  
 </br>
 
- You can send an email to: info@mehedihasan.im or bdmehedi92@gmail.com
+You can send an email to: [info@mehedihasan.im](mailto:info@mehedihasan.im) or [bdmehedi92@gmail.com](mailto:bdmehedi92@gmail.com)
  
 </p>
 
